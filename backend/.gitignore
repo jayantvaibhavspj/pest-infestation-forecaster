@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# TensorFlow/Keras
+*.h5
+*.pb
+models/trained/*
+
+# Node/npm
+node_modules/
+npm-debug.log
+.env.local
+.env.development.local
+
+# Uploads
+data/uploads/*
+*.npy
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local

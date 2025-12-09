@@ -1,0 +1,17 @@
+[
+  {
+    "day": 1,
+    "avg_temperature": 18.68,
+    "avg_wind_speed": 3.62
+  },
+  {
+    "day": 2,
+    "avg_temperature": 18.2,
+    "avg_wind_speed": 3.83
+  },
+  {
+    "day": 3,
+    "avg_temperature": 18.16,
+    "avg_wind_speed": 3.68
+  }
+]
